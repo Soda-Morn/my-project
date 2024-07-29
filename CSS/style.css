@@ -1,0 +1,25 @@
+.header ul{
+    display: flex;
+    justify-content: space-between;
+    width: 25%;
+    text-decoration: none;
+    
+}
+.header ul li{
+    text-decoration: none;
+    list-style: none;
+    font-size: 20px;
+}
+.header li:hover{
+    background-color: teal;
+}
+.heading{
+    background-color: black;
+    color: orange;
+    font-family: serif;
+    text-align: center;
+    font-size: 30px;
+}
+img{
+    width: 100%;
+}
