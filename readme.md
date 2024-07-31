@@ -8,3 +8,5 @@ git init
 >git add .
 
 >git push / pull
+
+>md = mark down
